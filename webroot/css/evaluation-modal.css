@@ -1,0 +1,22 @@
+.evaluation {
+    display: flex;
+}
+
+.evaluation__cospa {
+    margin-right: 100px;
+    font-size: 25px;
+}
+
+.evaluation__ease {
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+.evaluation__taste {
+    margin-right: 150px;
+    font-size: 25px;
+}
+
+.btn-ok {
+    width: 88px;
+}

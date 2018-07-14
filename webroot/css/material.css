@@ -1,0 +1,28 @@
+.recipe__header {
+    text-align: center;
+}
+
+.recipe__header th:nth-child(1) {
+    border-right-style: none!important;
+}
+
+.recipe__header th:nth-child(2) {
+    border-left-style: none!important;
+}
+
+.recipe__img {
+    width: 30px;
+    text-align: center;
+    border-right-style: none!important;
+}
+
+.recipe__checkbox {
+    width: 10px;
+    text-align: center;
+    border-left-style: none!important;
+}
+
+.recipe__checkbox input[type="checkbox"] {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}

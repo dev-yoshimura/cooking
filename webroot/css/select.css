@@ -1,0 +1,21 @@
+.recipe__name {
+    margin-left: 15px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    background: #fff;
+    border: solid 3px #cccccc;
+    border-radius: 10px;
+}
+
+.recipe__name p {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    height: 18px;
+}
+
+input[type="checkbox"] {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    margin-right: 0.5em;
+}
